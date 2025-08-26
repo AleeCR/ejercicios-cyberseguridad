@@ -2,7 +2,7 @@
 
 Este repositorio contiene una serie de scripts y herramientas básicos desarrollados en Python con el objetivo de practicar programación aplicada a la ciberseguridad. Los proyectos incluyen generadores de contraseñas, escáneres de puertos y herramientas para cracking de hashes, entre otros.
 
-## 🗂️ Proyectos incluidos
+## 🗂️ Proyectos incluidos 
 - **🔑 Generador de contraseñas**: Crea contraseñas seguras y las almacena localmente.
 - **🧩 Hash Cracker**: Encuentra contraseñas de hashes SHA-256 usando diccionarios.
 - **📊 Verificador de Hash**: Calcula el hash SHA-256 de cadenas para comparación.
